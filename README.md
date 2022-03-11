@@ -1,6 +1,6 @@
 ### Hola 👋
 
-I am PhD candidate at the Global Wetlands Project and Data61 and I am developing new computer vision methods to improve fisheries monitoring in aquatic ecosystems. 
+Data scientist for Griffith University; developing AI solutions for AgTech, conservation and education.
 
 - 🔭 I’m currently working on automated monitoring for aquatic ecosystems
 - 💬 Ask me about computer vision, fisheries and monitoring

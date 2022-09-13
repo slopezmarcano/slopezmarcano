@@ -3,4 +3,4 @@
 
 I am a data scientist at Griffith University developing computer vision solutions for AgTech, conservation and education. I manage [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=slopezmarcano&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=slopezmarcano&hide=contribs&count_private=true;show_icons=true" alt="GitHub Stats"></p>

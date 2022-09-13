@@ -1,11 +1,6 @@
-### 👋
+# 🙋🏽‍♂️
+<p><a href="https://www.twitter.com/seabassphd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-Data scientist at Griffith University; developing AI solutions for AgTech, conservation and education.
-
-- 🔭 I’m currently working on automated monitoring for aquatic ecosystems
-- 💬 Ask me about computer vision, fisheries and monitoring
-- 📫 How to reach me: e: s.lopez-marcano@griffith.edu.au  tw: @seabassphd
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am obsessed with tortilla strips 🤤
+I am a data scientist at Griffith University developing computer vision solutions for AgTech, conservation and education. I manage [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=slopezmarcano&amp;show_icons=true" alt="GitHub Stats"></p>

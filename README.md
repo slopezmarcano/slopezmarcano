@@ -8,3 +8,4 @@ Data scientist at Griffith University; developing AI solutions for AgTech, conse
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am obsessed with tortilla strips 🤤
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=slopezmarcano&amp;show_icons=true" alt="GitHub Stats"></p>

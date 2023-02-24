@@ -1,10 +1,12 @@
-# 🙋🏽‍♂️
+### Seabass
 <p><a href="https://www.twitter.com/seabassphd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 I am a data scientist at Griffith University developing computer vision solutions for AgTech, conservation and education. I manage and develop code for [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery. I specialise in the translation of raw occurrence data to understand animal behaviour and inform conservation and management. 
 
+🚀Check out [my tracking method](https://github.com/slopezmarcano/automated-fish-tracking) which was a top cited article during 2021-2022 in Ecology and Evolution!🚀
+
 Here is my 2023 data science gantt chart. Check out my pinned repos for more details. 
 
 <p align="center">
-<img src="assets/v1_ganttchart.png" width='450'/>
+<img src="assets/v1_ganttchart.png" width='350'/>
 </p>

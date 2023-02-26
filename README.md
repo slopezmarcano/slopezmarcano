@@ -5,12 +5,7 @@ I am a data scientist at Griffith University developing computer vision solution
 
 🚀 Check out [my tracking method](https://github.com/slopezmarcano/automated-fish-tracking) which was a top cited article during 2021-2022 in Ecology and Evolution! 🚀
 
-<style>
-    table {
-        font-size: 10px;
-    }
-</style>
-
+<style> table { font-size: 10px; } 
 | Project | Language / Software | Period | Repo |
 | -------- | -------- | -------- | -------- |
 | Atlas of Living Australia mapping | R | 2023 | [Repo](https://github.com/slopezmarcano/ala-mapping) |
@@ -34,3 +29,4 @@ I am a data scientist at Griffith University developing computer vision solution
 | Global Reef Record DB Admin | SQL | 2016-2018 | [OA Database](https://espace.library.uq.edu.au/view/UQ:734799) |
 | Global Reef Record DB GIS | SQL - QGIS | 2016-2018 | Private |
 | Foraging ecology of mangrove crabs | R | 2016-2017 | Private |
+</style>

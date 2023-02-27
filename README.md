@@ -7,11 +7,13 @@ I am a data scientist at Griffith University developing computer vision solution
 
 | Project | Language / Software | Period | Repo |
 | -------- | -------- | -------- | -------- |
-| Atlas of Living Australia mapping | R | 2023 | [Repo](https://github.com/slopezmarcano/ala-mapping) |
-| FishID Budgeting app | Python | 2023 | [Repo](https://github.com/slopezmarcano/fishid-budgeting) |
-| SDM sampling bias skinks | R | 2023 | [Repo](https://github.com/slopezmarcano/skinks-occurrences) |
-| Automated predator-prey analysis | R | 2023 | [Repo](https://github.com/slopezmarcano/live-play-together-fishid) |
-| FishID R Package | Python - R | 2022 | Private |
+| Fish consumer analysis | R | March 2023 | [Repo](https://github.com/slopezmarcano/fish-consumer) |
+| Comparative feeding behaviour with AI | R | March 2023 | Private |
+| Atlas of Living Australia mapping | R | Feb 2023 | [Repo](https://github.com/slopezmarcano/ala-mapping) |
+| FishID Budgeting app | Python | Feb 2023 | [Repo](https://github.com/slopezmarcano/fishid-budgeting) |
+| SDM sampling bias skinks | R | Feb 2023 | [Repo](https://github.com/slopezmarcano/skinks-occurrences) |
+| Automated predator-prey analysis | R | Feb 2023 | [Repo](https://github.com/slopezmarcano/live-play-together-fishid) |
+| FishID R Package | Python - R | Nov 2022 | Private |
 | Video management and movie building | Python | 2022 | Private |
 | Oyster reef restoration | R | 2022 | Private |
 | Artificial reef AI | R | 2022 | Private |
@@ -27,8 +29,5 @@ I am a data scientist at Griffith University developing computer vision solution
 | IUCN mangrove assessment | R - ArcGIS | 2018 | [Publication](https://doi.org/10.1016/j.biocon.2020.108751) |
 | Marine megafauna SDMs and biodiversity heatmaps | R - ArcGIS | 2018 | [Publication](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue) |
 | Computer vision resolution experiments | R | 2018 | [DSLR vs Compact CV experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)|
-| Topographic analysis from drone photogrammetry | Python | 2017-2018 | Private |
-| Drone photogrammetry | Agisoft Photoscan - Python - MatLab | 2017-2018 | [Coastal reconstructions](https://sketchfab.com/3d-models/3d-reconstruction-sandgate-10050-c6a7e392213b450aac895cde2666c278) |
-| Global Reef Record DB Admin | SQL | 2016-2018 | [OA Database](https://espace.library.uq.edu.au/view/UQ:734799) |
-| Global Reef Record DB GIS | SQL - QGIS | 2016-2018 | Private |
-| Foraging ecology of mangrove crabs | R | 2016-2017 | Private |
+| Drone photogrammetry, topography, and foraging ecology of crabs | R - Agisoft Photoscan - Python - MatLab | 2016-2018 | [Coastal reconstructions](https://sketchfab.com/3d-models/3d-reconstruction-sandgate-10050-c6a7e392213b450aac895cde2666c278) |
+| Global Reef Record DB Admin and GIS | SQL | 2016-2018 | [OA Database](https://espace.library.uq.edu.au/view/UQ:734799) |

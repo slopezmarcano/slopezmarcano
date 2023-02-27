@@ -12,6 +12,10 @@ I am a data scientist at Griffith University developing computer vision solution
 | SDM sampling bias skinks | R | 2023 | [Repo](https://github.com/slopezmarcano/skinks-occurrences) |
 | Automated predator-prey analysis | R | 2023 | [Repo](https://github.com/slopezmarcano/live-play-together-fishid) |
 | FishID R Package | Python - R | 2022 | Private |
+| Video management and movie building | Python | 2022 | Private |
+| Oyster reef restoration | R | 2022 | Private |
+| Artificial reef AI | R | 2022 | Private |
+| Finland salmon AI| Python - R | 2022 | Private |
 | Misc automated processing | Python - R | 2022 | [Repo](https://github.com/slopezmarcano/Dump) |
 | FishID Post-Processing workflow | Python | 2022 | Private |
 | CV automated model evaluations | Python | 2022| Private |

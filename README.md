@@ -10,6 +10,7 @@ I am a data scientist at Griffith University developing computer vision solution
 | -------- | -------- | -------- | 
 | [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer) | R | March 2023 | 
 | Comparative feeding behaviour with AI | R | March 2023 |
+| [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis) | Python | March 2023
 | [Atlas of Living Australia mapping](https://github.com/slopezmarcano/ala-mapping) | R | Feb 2023 |
 | [FishID Budgeting app](https://github.com/slopezmarcano/fishid-budgeting) | Python | Feb 2023 |
 | [SDM sampling bias skinks](https://github.com/slopezmarcano/skinks-occurrences) | R | Feb 2023 |

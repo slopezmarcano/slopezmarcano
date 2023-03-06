@@ -23,6 +23,7 @@ I am a data scientist at Griffith University developing computer vision solution
 - R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid)💡
 - R + Py: Artificial oyster and coral reef AI + Salmon AI
 - Py: Automated model evaluations
+- SQL + Py: [Dataset for fish detection in low visibility conditions](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
 
 **📍GIS**
 - ArcGIS + R: [Global mangrove forest models](https://doi.org/10.1016/j.biocon.2020.108637)

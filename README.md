@@ -15,6 +15,7 @@ I am a data scientist at Griffith University developing computer vision solution
 - R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
 - Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)💡
 - R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
+- R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)💡
 - R: FishID R Package
 - Py: Video management and movie building
 

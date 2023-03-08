@@ -8,23 +8,18 @@ I am a data scientist at Griffith University developing computer vision solution
 💡 *= updated in the last month*
 
 **👨🏽‍💻Data analytics**
-- R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid) 💡
-- R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 
-- R + Py: [Misc automated processing](https://github.com/slopezmarcano/Dump)
-- R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
-- R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
-- Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)💡
-- R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
-- R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)💡
-- R: FishID R Package
-- Py: Video management and movie building
-
-**🧠Computer vision and AI**
-- R + Py: [Automated detection and tracking of fish](https://github.com/slopezmarcano/automated-fish-tracking)
-- R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid)💡
-- R + Py: Artificial oyster and coral reef AI + Salmon AI
-- Py: Automated model evaluations
-- SQL + Py: [Dataset for fish detection in low visibility conditions](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
+- Environmental monitoring
+    - R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid) 💡
+    - R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 
+    - R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
+    - R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
+    - R: FishID R Package
+- Marketing
+    - R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
+- Data mining and visualisation
+    - Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)💡
+    - Py: Video management and movie building
+    - R + Py: [Misc automated processing](https://github.com/slopezmarcano/Dump)
 
 **📍GIS**
 - ArcGIS + R: [Global mangrove forest models](https://doi.org/10.1016/j.biocon.2020.108637)
@@ -32,6 +27,14 @@ I am a data scientist at Griffith University developing computer vision solution
 - ArcGIS + R: [IUCN wetland assessment](https://doi.org/10.1016/j.ecolind.2020.106489)
 - ArcGIS + R: [Marine megafauna SDMs and biodiversity heatmaps](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue)
 - R: [Atlas of Living Australia mapping](https://github.com/slopezmarcano/ala-mapping)
+- R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)💡
+
+**🧠Computer vision and AI**
+- R + Py: [Automated detection and tracking of fish](https://github.com/slopezmarcano/automated-fish-tracking)
+- R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid)💡
+- R + Py: Artificial oyster and coral reef AI + Salmon AI
+- Py: Automated model evaluations
+- SQL + Py: [Dataset for fish detection in low visibility conditions](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
 
 **🛫Drones and Photogrammetry**
 - Photoscan + R + MatLab: [Drone photogrammetry, topography, and foraging ecology of crabs](https://sketchfab.com/3d-models/3d-reconstruction-sandgate-10050-c6a7e392213b450aac895cde2666c278)
@@ -46,3 +49,6 @@ I am a data scientist at Griffith University developing computer vision solution
 
 **📀Database Admin**
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)
+
+**🎛️ Dashboards**
+- R: Oil and Gas dashboard💡

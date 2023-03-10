@@ -7,19 +7,24 @@ I am a data scientist at Griffith University developing computer vision solution
 
 💡 *= updated in the last month*
 
+----
+**Highlighted Repos**
+
+🦎[Skins occurrences](https://github.com/slopezmarcano/skinks-occurrences) | 🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid)
+
+
+-----
 **👨🏽‍💻Data analytics**
-- Environmental monitoring
-    - R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid) 💡
-    - R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 
-    - R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
-    - R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
-    - R: FishID R Package
-- Marketing
-    - R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
+- R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid) 💡
+- R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 
+- R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
+- R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
+- R: FishID R Package
+- R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
 - Data mining and visualisation
-    - Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)💡
-    - Py: Video management and movie building
-    - R + Py: [Misc automated processing](https://github.com/slopezmarcano/Dump)
+- Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)💡
+- Py: Video management and movie building
+- R + Py: [Misc automated processing](https://github.com/slopezmarcano/Dump)
 
 **📍GIS**
 - ArcGIS + R: [Global mangrove forest models](https://doi.org/10.1016/j.biocon.2020.108637)
@@ -51,4 +56,4 @@ I am a data scientist at Griffith University developing computer vision solution
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)
 
 **🎛️ Dashboards**
-- R: Oil and Gas dashboard💡
+- R: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)💡

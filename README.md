@@ -10,13 +10,13 @@ I am a data scientist at Griffith University developing computer vision solution
 ----
 **Highlighted Repos**
 
-🦎[Skins occurrences](https://github.com/slopezmarcano/skinks-occurrences) | 🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid)
+🦎[Skins occurrences](https://github.com/slopezmarcano/skinks-occurrences) | 🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behavioural classification with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) |
 
 
 -----
 **👨🏽‍💻Data analytics**
 - R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid) 💡
-- R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 
+- R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 💡
 - R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
 - R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
 - R: FishID R Package

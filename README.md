@@ -10,7 +10,7 @@ I am a data scientist at Griffith University developing computer vision solution
 ----
 **Highlighted Repos**
 
-🦎[Skins occurrences](https://github.com/slopezmarcano/skinks-occurrences) | 🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behavioural classification with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) |
+🦎[Skinks occurrences](https://github.com/slopezmarcano/skinks-occurrences) | 🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behavioural classification with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) |
 
 
 -----

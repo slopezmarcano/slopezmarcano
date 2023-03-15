@@ -1,5 +1,5 @@
 ## Seabass
-<p><a href="https://www.twitter.com/seabassphd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<p><a href="https://www.twitter.com/seabassphd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://scholar.google.com/citations?user=NLdPbb0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a>  <a href =""> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{slopezmarcano}1212%2Fhit-counter" height=24></a>
 
 I am a data scientist at Griffith University developing computer vision solutions for AgTech, conservation and education. I manage and develop code for [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery. I specialise in the translation of raw occurrence data to understand animal behaviour and inform conservation and management. 
 
@@ -51,6 +51,7 @@ I am a data scientist at Griffith University developing computer vision solution
 
 **📈Business and project management**
 - Py: [FishID Budgeting app](https://github.com/slopezmarcano/fishid-budgeting)
+- R + Py: FishID collaborations and user mapping for management meetings
 
 **📀Database Admin**
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)

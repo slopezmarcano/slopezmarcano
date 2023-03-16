@@ -10,7 +10,7 @@ I am a data scientist at Griffith University developing computer vision solution
 ----
 **Highlighted Repos**
 
-🦎[Skinks occurrences](https://github.com/slopezmarcano/skinks-occurrences) | 🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behavioural classification with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) |
+🛢️ [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard) | 🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behaviour with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) | 🚥 [BNE Traffic GIS](https://github.com/slopezmarcano/2018_traffic_visualisation)
 
 
 -----
@@ -46,12 +46,12 @@ I am a data scientist at Griffith University developing computer vision solution
 - R: Drone salmon AI
 
 **🗺️Species distribution models**
-- R: [SDM sampling bias skinks](https://github.com/slopezmarcano/skinks-occurrences)💡
+- R: [SDM sampling bias skinks](https://github.com/slopezmarcano/skinks-occurrences)
 - ArcGIS + R: [Marine megafauna SDMs and biodiversity heatmaps](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue)
 
 **📈Business and project management**
 - Py: [FishID Budgeting app](https://github.com/slopezmarcano/fishid-budgeting)
-- R + Py: FishID collaborations and user mapping for management meetings
+- R + Py: FishID user mapping for management meetings 💡 
 
 **📀Database Admin**
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)

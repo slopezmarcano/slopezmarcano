@@ -58,3 +58,4 @@ I am a data scientist at Griffith University developing computer vision solution
 
 **🎛️ Dashboards**
 - R: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)💡
+- R: [MLB Statcast Google Cloud](https://github.com/slopezmarcano/statcast-2022)💡

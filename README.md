@@ -22,7 +22,7 @@ I am a data scientist at Griffith University developing computer vision solution
 - R: FishID R Package
 - R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
 - Data mining and visualisation
-- Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)💡
+- Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)
 - Py: Video management and movie building
 - R + Py: [Misc automated processing](https://github.com/slopezmarcano/Dump)
 
@@ -31,7 +31,7 @@ I am a data scientist at Griffith University developing computer vision solution
 - ArcGIS + R: [IUCN mangrove assessment](https://doi.org/10.1016/j.biocon.2020.108751)
 - ArcGIS + R: [IUCN wetland assessment](https://doi.org/10.1016/j.ecolind.2020.106489)
 - ArcGIS + R: [Marine megafauna SDMs and biodiversity heatmaps](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue)
-- R: [Atlas of Living Australia Maps](https://github.com/slopezmarcano/ala-mapping)
+- R: [Atlas of Living Australia mapping](https://github.com/slopezmarcano/ala-mapping)
 - R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)💡
 
 **🧠Computer vision and AI**

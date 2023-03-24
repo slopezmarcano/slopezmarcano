@@ -1,7 +1,7 @@
 ## Seabass
 <p><a href="https://www.twitter.com/seabassphd"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://scholar.google.com/citations?user=NLdPbb0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a>  <a href =""> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{slopezmarcano}1212%2Fhit-counter" height=24></a>
 
-I am a data scientist at Griffith University developing AI solutions for AgTech, conservation and education. I manage and develop code for [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery. I specialise in the translation of raw occurrence data to understand animal behaviour and inform conservation and management. 
+I am a data scientist at Griffith University developing AI solutions for AgTech, conservation and education. I manage and develop code for [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery. I specialise in the translation of raw occurrence data to understand animal behaviour and inform management. 
 
 > 🚀 Check out [my tracking method](https://github.com/slopezmarcano/automated-fish-tracking) which was a top cited article during 2021-2022 in Ecology and Evolution! 🚀
 

@@ -3,7 +3,7 @@
 
 I am a data scientist at Griffith University developing AI solutions for AgTech, conservation and education. I manage and develop code for [FishID](https://ardc.edu.au/project/fishid/), a smart conservation tool that detects and identifies animals in underwater imagery. I specialise in the translation of raw occurrence data to understand animal behaviour and inform management. 
 
-> 🚀 Check out [my tracking method](https://github.com/slopezmarcano/automated-fish-tracking) which was a top cited article during 2021-2022 in Ecology and Evolution! 🚀
+> 🚀 Check out [my tracking method](https://github.com/slopezmarcano/automated-fish-tracking) which was a top cited article during 2021-2022 in Ecology and Evolution!🚀
 
 💡 *= updated in the last month*
 

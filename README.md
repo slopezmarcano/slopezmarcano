@@ -5,7 +5,7 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 
 > 🚀 Check out [my tracking method](https://github.com/slopezmarcano/automated-fish-tracking) which was a top cited article during 2021-2022 in Ecology and Evolution!🚀
 
-💡  *= updated in the last month*
+💡 *= updated in the last month*
 
 ----
 **Highlighted Repos**

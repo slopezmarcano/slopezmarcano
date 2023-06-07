@@ -15,12 +15,13 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 
 -----
 **👨🏽‍💻Data analytics**
-- R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid) 💡
-- R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) 💡
+- R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
+- R + Py: [Automated predator-prey analysis in the lab](https://github.com/slopezmarcano/utas-lobster-predation) 💡
+- R: [Automated predator-prey analysis in the wild](https://github.com/slopezmarcano/live-play-together-fishid) 
+- R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour)
 - R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
 - R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
 - R: FishID R Package
-- R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
 - Data mining and visualisation
 - Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)
 - Py: Video management and movie building
@@ -32,11 +33,12 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 - ArcGIS + R: [IUCN wetland assessment](https://doi.org/10.1016/j.ecolind.2020.106489)
 - ArcGIS + R: [Marine megafauna SDMs and biodiversity heatmaps](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue)
 - R: [Atlas of Living Australia mapping](https://github.com/slopezmarcano/ala-mapping)
-- R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)💡
+- R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)
 
 **🧠Computer vision and AI**
+- Py: [Computer vision workshop to freshwater ecologists in Finland](https://github.com/slopezmarcano/fishid-workshop-finland)💡
 - R + Py: [Automated detection and tracking of fish](https://github.com/slopezmarcano/automated-fish-tracking)
-- R: [Automated predator-prey analysis](https://github.com/slopezmarcano/live-play-together-fishid)💡
+- R: [Automated predator-prey analysis in the wild](https://github.com/slopezmarcano/live-play-together-fishid)
 - R + Py: Artificial oyster and coral reef AI + Salmon AI
 - Py: Automated model evaluations
 - SQL + Py: [Dataset for fish detection in low visibility conditions](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)
@@ -57,5 +59,5 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)
 
 **🎛️ Dashboards**
-- R: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)💡
-- R: [MLB Statcast Google Cloud](https://github.com/slopezmarcano/statcast-2022)💡
+- R: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)
+- R: [MLB Statcast Google Cloud](https://github.com/slopezmarcano/statcast-2022)

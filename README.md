@@ -54,6 +54,7 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 **📈Business and project management**
 - Py: [FishID Budgeting app](https://github.com/slopezmarcano/fishid-budgeting)
 - R + Py: FishID user mapping for management meetings
+- R: Time tracking visualisations with Toggl Track💡
 
 **📀Database Admin**
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)

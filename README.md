@@ -10,7 +10,7 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 ----
 **Highlighted Repos**
 
-🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behaviour with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) | 🚥 [BNE Traffic GIS](https://github.com/slopezmarcano/2018_traffic_visualisation) | 🧚🏽‍♀️ [Misc automated processing](https://github.com/slopezmarcano/Dump)
+🧑🏽‍💻 [What do I do at Griffith University](https://github.com/slopezmarcano/my-datascience-tracking)|🦈 [Automated predation](https://github.com/slopezmarcano/live-play-together-fishid) | 🧠[Behaviour with AI](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour) | 🚥 [BNE Traffic GIS](https://github.com/slopezmarcano/2018_traffic_visualisation) |
 
 
 -----
@@ -54,11 +54,13 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 **📈Business and project management**
 - Py: [FishID Budgeting app](https://github.com/slopezmarcano/fishid-budgeting)
 - R + Py: FishID user mapping for management meetings
-- R: Time tracking visualisations with Toggl Track💡
+
 
 **📀Database Admin**
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)
 
 **🎛️ Dashboards**
-- R: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)
+- R Shiny: [Visualising Predation Events](https://github.com/slopezmarcano/lobster-predation-dashboard)💡
+- R Shiny: [What do I do at Griffith Uni](https://github.com/slopezmarcano/my-datascience-tracking)💡
+- R GGPlot: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)
 - R: [MLB Statcast Google Cloud](https://github.com/slopezmarcano/statcast-2022)

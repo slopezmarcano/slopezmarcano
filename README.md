@@ -15,8 +15,9 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 
 -----
 **👨🏽‍💻Data analytics**
-- R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)💡
-- R + Py: [Automated predator-prey analysis in the lab](https://github.com/slopezmarcano/utas-lobster-predation) 💡
+- R: A brief summary of AI datasets 💡
+- R: [Fish consumer analysis](https://github.com/slopezmarcano/fish-consumer)
+- R + Py: [Automated predator-prey analysis in the lab](https://github.com/slopezmarcano/utas-lobster-predation)
 - R: [Automated predator-prey analysis in the wild](https://github.com/slopezmarcano/live-play-together-fishid) 
 - R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour)
 - R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
@@ -32,8 +33,8 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 - R: [BNE Traffic Visualisations](https://github.com/slopezmarcano/2018_traffic_visualisation)
 
 **🧠Computer vision and AI**
-- Py: [Computer vision workshop to freshwater ecologists in Finland](https://github.com/slopezmarcano/fishid-workshop-finland)💡
-- R + Py: Computer vision models for sea cucumber detection 💡
+- Py: Computer vision models for sea cucumber detection 💡
+- Py: [Computer vision workshop to freshwater ecologists in Finland](https://github.com/slopezmarcano/fishid-workshop-finland)
 - R + Py: [Automated detection and tracking of fish](https://github.com/slopezmarcano/automated-fish-tracking)
 - R: [Automated predator-prey analysis in the wild](https://github.com/slopezmarcano/live-play-together-fishid)
 - R + Py: Artificial oyster and coral reef AI + Salmon AI
@@ -55,5 +56,5 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 **🎛️ Dashboards**
 - R Shiny: Beach Monitoring Dashboard (City of Gold Coast) 💡
 - R Shiny: Sea Cucumbers AI Dashboard 💡
-- R Shiny: [Visualising Predation Events](https://github.com/slopezmarcano/lobster-predation-dashboard)💡
-- R Shiny: [What do I do at Griffith Uni](https://github.com/slopezmarcano/my-datascience-tracking)💡
+- R Shiny: [Visualising Predation Events](https://github.com/slopezmarcano/lobster-predation-dashboard)
+- R Shiny: [What do I do at Griffith Uni](https://github.com/slopezmarcano/my-datascience-tracking)

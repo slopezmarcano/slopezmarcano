@@ -21,10 +21,6 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 - R + Py: [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour)
 - R: [Computer vision camera resolution experiments](https://www.notion.so/glowfishid/Influence-of-image-resolution-on-deep-learning-models-940a4a0971df4e22abe93eec9ec31568?pvs=4)
 - R: [The slow rise of tech in fish ecology](https://doi.org/10.1002/aqc.3432)
-- R: FishID R Package
-- Data mining and visualisation
-- Py: [Youtube and text processing](https://github.com/slopezmarcano/gmm_gut_check_analysis)
-- Py: Video management and movie building
 - R + Py: [Misc automated processing](https://github.com/slopezmarcano/Dump)
 
 **📍GIS**
@@ -37,6 +33,7 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 
 **🧠Computer vision and AI**
 - Py: [Computer vision workshop to freshwater ecologists in Finland](https://github.com/slopezmarcano/fishid-workshop-finland)💡
+- R + Py: Computer vision models for sea cucumber detection 💡
 - R + Py: [Automated detection and tracking of fish](https://github.com/slopezmarcano/automated-fish-tracking)
 - R: [Automated predator-prey analysis in the wild](https://github.com/slopezmarcano/live-play-together-fishid)
 - R + Py: Artificial oyster and coral reef AI + Salmon AI
@@ -51,16 +48,12 @@ I am a data scientist at Griffith University developing AI solutions for AgTech,
 - R: [SDM sampling bias skinks](https://github.com/slopezmarcano/skinks-occurrences)
 - ArcGIS + R: [Marine megafauna SDMs and biodiversity heatmaps](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue)
 
-**📈Business and project management**
-- Py: [FishID Budgeting app](https://github.com/slopezmarcano/fishid-budgeting)
-- R + Py: FishID user mapping for management meetings
-
 
 **📀Database Admin**
 - SQL: [2016 -2018: Global Reef Record DB Admin and GIS](https://espace.library.uq.edu.au/view/UQ:734799)
 
 **🎛️ Dashboards**
+- R Shiny: Beach Monitoring Dashboard (City of Gold Coast) 💡
+- R Shiny: Sea Cucumbers AI Dashboard 💡
 - R Shiny: [Visualising Predation Events](https://github.com/slopezmarcano/lobster-predation-dashboard)💡
 - R Shiny: [What do I do at Griffith Uni](https://github.com/slopezmarcano/my-datascience-tracking)💡
-- R GGPlot: [Oil and Gas dashboard](https://github.com/slopezmarcano/oil-gas-dashboard)
-- R: [MLB Statcast Google Cloud](https://github.com/slopezmarcano/statcast-2022)

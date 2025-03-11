@@ -1,7 +1,7 @@
 ## Seabass
 <p><a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://scholar.google.com/citations?user=NLdPbb0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a>  <a href =""> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{slopezmarcano}1212%2Fhit-counter" height=24></a>
 
-I am a Principal Data Scientist leading QCIF's Sustainable Futures portfolio. QCIF (Queensland Cyber Infrastructure Foundation) is an extension of the e-research capabilities of major Australian universities. The Sustainable Futures portfolio manages the technical delivery of federally-funded platforms such as 🗺️[EcoCommons](https://www.ecocommons.org.au/), 🦘[Wildlife Observatories](https://www.tern.org.au/wildobs/) and 🌾[Analytics for the Australian Grains Industry](https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi)
+I am a Principal Data Scientist leading QCIF's Sustainable Futures portfolio. QCIF provides e-research capabilities to major Australian universities. The Sustainable Futures portfolio manages the technical delivery of federally-funded platforms such as 🗺️[EcoCommons](https://www.ecocommons.org.au/), 🦘[Wildlife Observatories](https://www.tern.org.au/wildobs/) and 🌾[Analytics for the Australian Grains Industry](https://grdc.com.au/research/partnerships-and-initiatives/strategic-partnerships/aagi)
 
 💡 *= updated in the last month*
 

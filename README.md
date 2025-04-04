@@ -1,7 +1,7 @@
 ## Seabass
 <p><a href="https://www.linkedin.com/in/sebastianlopez-marcano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://scholar.google.com/citations?user=NLdPbb0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a> 
 
-I am a data scientist leading teams developing e-research tools in the agricutlure, environment and monitoring sectors.
+I am a data scientist leading teams developing e-research tools in the agriculture, environment and monitoring sectors.
 
 💡 *= updated in the last month*
 

@@ -12,7 +12,7 @@ I am a data scientist leading teams developing e-research tools in the agricultu
 
 -----
 **👨🏽‍💻Data analytics, modelling and viz**
-- [65,000 paper bags to stop sorghum pollination](https://github.com/slopezmarcano/paper-bag-animation)💡
+- [65,000 paper bags to stop sorghum pollination](https://github.com/slopezmarcano/paper-bag-animation)
 - [Founder of the EcoCommons Notebooks](https://github.com/EcoCommonsAustralia/notebooks)💡
 - [Which fish I like to eat 😅](https://github.com/slopezmarcano/fish-consumer)
 - [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour)
@@ -24,7 +24,7 @@ I am a data scientist leading teams developing e-research tools in the agricultu
 - [Marine megafauna SDMs and biodiversity heatmaps](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30109-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534719301090%3Fshowall%3Dtrue)
 
 **🧠Computer vision and AI**
-- [Free computer vision training for environmental applications](https://github.com/QCIF-SustainableFutures/roboflow-training)💡
+- [Free computer vision training for environmental applications](https://github.com/QCIF-SustainableFutures/roboflow-training)
 - [Automated detection and tracking of fish](https://github.com/slopezmarcano/automated-fish-tracking)
 - [Automated predator-prey analysis in the wild](https://github.com/slopezmarcano/live-play-together-fishid)
 - [Annotated dataset for fish detection in low visibility conditions](https://github.com/slopezmarcano/dataset-fish-detection-low-visibility)

@@ -14,7 +14,7 @@ I am a data scientist leading teams developing e-research tools in the agricultu
 **👨🏽‍💻Data analytics, modelling and viz**
 - [65,000 paper bags to stop sorghum pollination](https://github.com/slopezmarcano/paper-bag-animation)
 - [Founder of the EcoCommons Notebooks](https://github.com/EcoCommonsAustralia/notebooks)💡
-- [Which fish I like to eat 😅](https://github.com/slopezmarcano/fish-consumer)
+- [Which fish I like to eat](https://github.com/slopezmarcano/fish-consumer)
 - [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour)
 
 **📍GIS**

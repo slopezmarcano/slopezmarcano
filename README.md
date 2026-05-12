@@ -8,12 +8,21 @@ I am a data scientist leading teams developing e-research tools in the agricultu
 ----
 **Highlighted Repos**
 
-🦈 [Quantifying fish predation with AI](https://github.com/slopezmarcano/live-play-together-fishid) | 🐯 [Computer Vision Training](https://github.com/QCIF-SustainableFutures/roboflow-training) | 🛟[How many people visit Gold Coast beaches](https://fishid.shinyapps.io/beachai-dashboard/)
+🦈 [Quantifying fish predation with AI](https://github.com/slopezmarcano/live-play-together-fishid) | 🐯 [Computer Vision Training](https://github.com/UQ-Data-Science-CRP/easy-image-classification-dscrp) | 🛟[How many people visit Gold Coast beaches](https://fishid.shinyapps.io/beachai-dashboard/)
 
 -----
+**🧑🏻‍🏫Training materials and public resources**
+- [2025-2026 Computer Vision Training](https://github.com/UQ-Data-Science-CRP/easy-image-classification-dscrp)💡
+- [2024-2025 Computer Vision Training](https://github.com/QCIF-SustainableFutures/roboflow-training)
+- [Quick automated animal detector: Atlas of Living Australia x Yolov11](https://github.com/WildObs/ala-computervision-demo)
+- [How to prepare your environmental data for species distribution models](https://zenodo.org/records/19548970)💡
+- [How to deal with imbalanced datasets in environmental models](https://zenodo.org/records/19549126)💡
+- [Easy Generalised Linear Models for environment studies](https://zenodo.org/records/19551976)💡
+- [Quick approaches to determine occupancy and extent of a species](https://zenodo.org/records/19552073)💡
+- 
 **👨🏽‍💻Data analytics, modelling and viz**
 - [65,000 paper bags to stop sorghum pollination](https://github.com/slopezmarcano/paper-bag-animation)
-- [Founder of the EcoCommons Notebooks](https://github.com/EcoCommonsAustralia/notebooks)💡
+- [Founder of the EcoCommons Notebooks](https://github.com/EcoCommonsAustralia/notebooks)
 - [Which fish I like to eat](https://github.com/slopezmarcano/fish-consumer)
 - [Statistics for automated behaviour analysis](https://github.com/slopezmarcano/sem-for-automated-animal-behaviour)
 
